@@ -1,0 +1,10 @@
+example-admin:
+  name: example-admin-eks
+  groups:
+    - EKSAdministrator
+    - EKSDeveloper
+
+example-dev:
+  name: example-dev
+  groups:
+    - EKSDeveloper
